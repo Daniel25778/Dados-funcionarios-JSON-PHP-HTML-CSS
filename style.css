@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
